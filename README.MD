@@ -1,2 +1,5 @@
 # data-structures
-Collection of Data-Structure Problems
+Collection of Data-Structure 
+
+### Contribute
+Feel free to fork, commit or add to collection
